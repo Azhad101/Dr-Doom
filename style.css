@@ -204,6 +204,7 @@ nav {
 
 .image-box {
     height: 540px;
+    width: 450px;
     max-width: 1200px;
     overflow: hidden;
     display: flex;
@@ -273,7 +274,7 @@ nav {
     background: radial-gradient(circle at left, rgba(0,0,0,0.6), transparent 40%),
                 radial-gradient(circle at right, rgba(0,0,0,0.6), transparent 40%),
                 linear-gradient(to right, #056608 50%, #147917 50%, #248D27 50%, #33A036 50%, #43B446 50%, #52C755 50%); 
-    background-size: 200%;
+    background-size: 300%;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
